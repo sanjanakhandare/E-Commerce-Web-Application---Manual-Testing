@@ -1,11 +1,10 @@
-# Test Scenarios - E-Commerce Application
-Scenario ID	Module	   Test Scenario Description
-TS_01	   Registration	 Verify user registration with valid detail
-TS_02	   Registration	 Verify registration with existing email
-TS_03	   Login	       Verify login with valid credentials
-TS_04	   Login	       Verify login with invalid credentials
-TS_05	   Search	       Verify product search functionality
-TS_06	   Cart	         Verify add product to cart
-TS_07	   Checkout	     Verify checkout process
-TS_08	   Payment	     Verify payment with valid card details
-TS_09	   Logout	       Verify logout functionality
+## Test Scenarios – E-Commerce Application
+
+1. Verify user registration with valid data
+2. Verify login with valid credentials
+3. Verify login with invalid credentials
+4. Verify product search functionality
+5. Verify add-to-cart feature
+6. Verify checkout process
+7. Verify payment gateway
+8. Verify logout functionality
