@@ -1,0 +1,119 @@
+🧪 Test Plan Document
+Project: E-Commerce Web Application - Manual Testing
+1. Introduction
+This Test Plan document describes the testing strategy, scope, resources, schedule, and deliverables for manual testing of an E-Commerce web application.
+The purpose of this plan is to ensure that the application meets functional requirements and is ready for release with acceptable quality.
+
+2. Objective
+The main objectives of testing are:
+To verify that all functionalities work as per requirements
+To identify defects before production releas
+To ensure system stability and usabilit
+To improve overall product quality
+
+3. Application Under Test (AUT)
+Application Type: E-Commerce Web Application
+
+Key Modules:
+User Registration
+Login / Logout
+Product Search
+Add to Cart
+Checkout
+Payment
+
+4. Scope of Testing
+
+4.1 In-Scope
+Functional testing of all major modules
+UI validation
+Smoke testing
+Regression testing
+System testing
+
+4.2 Out-of-Scope
+Performance testing
+Security testing
+Compatibility testing on multiple devices
+Automation testing
+
+5. Test Approach
+Testing will be performed manually
+Test scenarios and test cases will be created based on requirements
+Test execution results will be documented in Excel
+Defects will be logged and tracked using a defect report
+Regression testing will be performed after defect fixes
+
+6. Types of Testing
+Functional Testing
+Smoke Testing
+Regression Testing
+System Testing
+
+7. Test Environment
+
+| Component        | Details                   |
+| ---------------- | ------------------------- |
+| Operating System | Windows                   |
+| Browser          | Google Chrome             |
+| Testing Type     | Manual                    |
+| Test Data        | Dummy user & product data |
+
+
+8. Entry and Exit Criteria
+
+8.1 Entry Criteria
+Requirements are finalized and available
+Test environment is ready
+Test cases are reviewed and approved
+
+8.2 Exit Criteria
+All planned test cases are executed
+Critical and high-severity defects are fixed
+Test execution report is prepared
+QA sign-off is completed
+
+9. Test Deliverables
+Test Plan Document
+Test Scenarios
+Test Cases
+Test Execution Report
+Defect Report
+Requirement Traceability Matrix (RTM)
+
+10. Defect Management
+Defects will be logged with:
+Defect ID
+Summary
+Severity
+Priority
+Status
+Defect lifecycle:
+New → Open → In Progress → Fixed → Retest → Closed
+                     ↘ Reopen
+
+11. Roles and Responsibilities
+
+| Role      | Responsibility                                  |
+| --------- | ----------------------------------------------- |
+| Tester    | Test case creation, execution, defect reporting |
+| QA Lead   | Review test cases, monitor testing progress     |
+| Developer | Fix reported defects                            |
+
+12. Risks and Mitigation
+
+| Risk                | Mitigation                     |
+| ------------------- | ------------------------------ |
+| Requirement changes | Regular review & updates       |
+| Time constraints    | Prioritize critical test cases |
+| Environment issues  | Early setup & verification     |
+
+
+13. Assumptions
+Requirements are stable
+Test environment matches production
+Test data is readily available
+
+14. Approval
+This Test Plan is reviewed and approved by the QA team and stakeholders before test execution begins.
+
